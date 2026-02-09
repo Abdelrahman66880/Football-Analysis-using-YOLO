@@ -1,16 +1,10 @@
-# YOLO / Ultralytics outputs
+# YOLO outputs
 runs/
-input_videos/
+
+# Videos
+*.avi
+*.mp4
 
 # Model weights
 *.pt
-*.onnx
-
-# Videos
-*.mp4
-*.avi
-
-# Python
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
+runs/detect
