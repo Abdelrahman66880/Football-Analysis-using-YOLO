@@ -28,7 +28,7 @@ A comprehensive computer vision project that performs real-time analysis of foot
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Football-Analysis-using-YOLO.git
+git clone https://github.com/Abdelrahman66880/Football-Analysis-using-YOLO.git
 cd Football-Analysis-using-YOLO
 ```
 
